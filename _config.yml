@@ -1,6 +1,6 @@
 markdown: rdiscount 
 permalink: /:year/:month/:day/:title 
-title: Tao
+title: junzhou
 url: http://zjun87.hp88.net
 subscribe: http://zjun87.hp88.net
 exclude: [ README.md, newpost.rb ]
