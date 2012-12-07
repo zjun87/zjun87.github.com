@@ -1,12 +1,12 @@
 markdown: rdiscount 
 permalink: /:year/:month/:day/:title 
 title: Tao
-url: http://ztpala.com
-subscribe: http://ztpala.com/feed.xml
+url: http://zjun87.hp88.net
+subscribe: http://zjun87.hp88.net
 exclude: [ README.md, newpost.rb ]
-domain: ztpala.com
-author: Tao Zhang
-email: ztpala+blog@gmail.com
+domain: http://zjun87.hp88.net
+author: junzhou
+email:zjun87@gmail.com
 auto: true
 twitterID: ztpala
 googleAnalyticsID: UA-5531632-1
